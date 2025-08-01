@@ -12,7 +12,7 @@ Hosted entirely on AWS with high availability and security.
 
 ## Architecture Overview
 
-![AWS Portfolio Architecture](Architecture Diagram.drawio-1.png)
+![AWS Portfolio Architecture](architecture-diagram.png)
 
 
 **Services Used**
@@ -55,7 +55,7 @@ portfolio-website/
 ---
 
 ## 📸 Screenshots
-![AWS Portfolio Website pics](Screenshot 2025-07-31 215450-1.png)
+![AWS Portfolio Website pics](website-screenshot.png)
 
 ---
 
