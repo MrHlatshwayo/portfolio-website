@@ -6,7 +6,7 @@ Hosted entirely on AWS with high availability and security.
 ---
 
 ## Live Demo
-🔗 [View My Portfolio](https://www.mrhlatshwayo.com)
+🔗 [View My Portfolio](https://www.mrhlatshwayo.site)
 
 ---
 
